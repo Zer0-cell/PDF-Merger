@@ -16,3 +16,4 @@ with open("merged.pdf", "wb") as merged_pdf:
 
 print("PDFs merged successfully into 'merged.pdf'")
 
+# You must have to upload the pdf files in the interpreters. Such as in this code I uploaded "1.pdf" and "2.pdf" in the interpreter.
